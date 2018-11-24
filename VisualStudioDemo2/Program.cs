@@ -7,6 +7,7 @@ namespace VisualStudioDemo2
         static void Main(string[] args)
         {
             Console.WriteLine("Visual Studio Demo");
+            Console.WriteLine("Here's another line");
             Console.ReadLine();
 
         }
